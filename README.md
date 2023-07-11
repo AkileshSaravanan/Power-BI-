@@ -4,9 +4,9 @@
 
 The codes and information listed above are unique and it is open source to use,
 
-The files provided contain codes and visualization of different charts on POWER BI,
+The files provided contain codes and visualization of different charts on **POWER BI**,
 
-I started from scratch and advanced my skills in **Power BI** by practicing various operations, visualizations, and creating dashboards on POWER BI.
+I started from scratch and advanced my skills in **Power BI** by practicing various operations, visualizations, and creating dashboards on **POWER BI**.
 
 **Day - 1**: I installed Power BI, uploaded the dataset, introduced Query, explored the user interface, and built the first visualization.
 
