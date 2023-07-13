@@ -25,7 +25,7 @@ I started from scratch and advanced my skills in **Power BI** by practicing vari
 **Day - 8**:  I created different types of visualizations such as Stacked Bar Charts, Stacked Column charts, Line charts, Line and Clustered Column charts, Scatter charts, Pie Charts/Donut Charts, Cards, and Tables.
 
 **Day - 9**:  I utilized the knowledge I gained throughout the process and completed the **Data Professional Survey Breakdown** Dashboard, incorporating all the operations and visualizations.
-<li><a href="https://app.powerbi.com/groups/me/reports/f1fd1bb0-3546-429d-8264-e4e9c0d6466d?ctid=9a8b1856-f41d-4ec2-aa65-cb2c5d8f5f0e&pbi_source=linkShare">**Dashboard**</a> 
+<li><a href="https://app.powerbi.com/groups/me/reports/f1fd1bb0-3546-429d-8264-e4e9c0d6466d?ctid=9a8b1856-f41d-4ec2-aa65-cb2c5d8f5f0e&pbi_source=linkShare">Dashboard</a> 
 
 **Day - 10**: Additionally I have done a new Simple **Sales Dashboard** by adding the Slicer operation.
 
